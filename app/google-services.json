@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "495417285549",
+    "firebase_url": "https://mercado-inteligente.firebaseio.com",
+    "project_id": "mercado-inteligente",
+    "storage_bucket": "mercado-inteligente.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495417285549:android:c5cd93767916c7bc",
+        "android_client_info": {
+          "package_name": "com.mya.mercadointeligente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495417285549-s3hlmomc53990k481iegd8d404utl5o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeHpZWOtil5d_e3nmQ-3nqWp6dVK9ulC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495417285549-s3hlmomc53990k481iegd8d404utl5o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
